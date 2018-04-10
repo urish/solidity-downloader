@@ -1,0 +1,16 @@
+{
+  "name": "oversol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/urish/solidity-downloader",
+  "description": "Downloads a bunch of solidity contracts from GitHub repos",
+  "author": "Uri Shaked <uri@urishaked.com>",
+  "dependencies": {
+    "progress": "^2.0.0",
+    "request": "^2.85.0"
+  },
+  "engines": {
+    "node": ">=8.4.0"
+  }
+}
